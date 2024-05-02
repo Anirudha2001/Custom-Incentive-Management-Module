@@ -17,6 +17,8 @@ The Incentive Management System is a web-based application developed to automate
 - **Database:** MySQL
 
 
+![image](server/frontend.png)
+
 
 ## Setup Instructions
 
