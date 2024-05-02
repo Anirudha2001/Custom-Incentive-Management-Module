@@ -16,7 +16,7 @@ The Incentive Management System is a web-based application developed to automate
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL
 
-
+## Frontend Image:
 ![image](server/frontend.png)
 
 
