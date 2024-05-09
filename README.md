@@ -7,7 +7,6 @@ The Incentive Management System is a web-based application developed to automate
 - **Incentive Calculation:** Dynamic calculation of incentives based on predefined sales performance metrics.
 - **Holiday Package Management:** Administrative interface for managing holiday packages.
 - **Automated Holiday Package Selection:** Integration of holiday package selection logic into the incentive calculation process.
-- **Employee Notification System:** Email notification system to inform employees of their performance and incentive details.
 - **User Access and Permissions:** User roles and permissions to restrict access to sensitive incentive data.
 
 ## Technology Stack
